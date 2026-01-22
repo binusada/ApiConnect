@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.network.userprofiles"
+    namespace = "com.apiconnect.network.userprofiles"
     compileSdk = 34
 
     defaultConfig {

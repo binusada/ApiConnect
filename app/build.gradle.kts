@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.randomuser"
+    namespace = "com.apiconnect"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.randomuser"
+        applicationId = "com.apiconnect"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

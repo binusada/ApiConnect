@@ -13,7 +13,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "RandomUserApp"
+rootProject.name = "ApiConnect"
 include(":app")
 include(":core:core-ui")
 include(":core:core-domain")

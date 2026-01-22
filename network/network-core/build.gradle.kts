@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.network.core"
+    namespace = "com.apiconnect.network.core"
     compileSdk = 34
 
     defaultConfig {
